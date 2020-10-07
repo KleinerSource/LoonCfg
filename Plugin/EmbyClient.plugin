@@ -1,0 +1,6 @@
+[MITM]
+hostname = mb3admin.com
+
+[Script]
+# Emby 客户端破解
+http-response ^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/KleinerSource/LoonCfg/master/Script/embycrack.js
