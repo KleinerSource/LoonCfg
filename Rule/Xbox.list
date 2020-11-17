@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,msauth.net
+USER-AGENT,Microsoft*
+USER-AGENT,GamePass*
+USER-AGENT,Xbox*
+USER-AGENT,XBL-xComms
