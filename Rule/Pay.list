@@ -1,18 +1,16 @@
-DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.eu
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.de
-DOMAIN-SUFFIX,amazon.jp
 DOMAIN-SUFFIX,amazon
 DOMAIN-SUFFIX,a2z.com
-DOMAIN-SUFFIX,amazon
 DOMAIN-SUFFIX,amazon-fashions.com
 DOMAIN-SUFFIX,amazon-jp-recruiting.com
 DOMAIN-SUFFIX,amazon-lantern.com
 DOMAIN-SUFFIX,amazon-launchpad.com
 DOMAIN-SUFFIX,amazon.co
+DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.it
@@ -42,3 +40,5 @@ DOMAIN-SUFFIX,amazonvideo.cc
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amazonvideodirect.com
 DOMAIN-SUFFIX,amazonworkdocs.com
+HOST,atv-ps.amazon.com
+HOST,fls-na.amazon.com
